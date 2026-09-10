@@ -1,0 +1,5 @@
+After training, generate a sample with:
+
+python src/generate.py --prompt "I tell you,"
+
+Generated text quality depends on training time, model size, and dataset size. A short CPU smoke test only verifies the pipeline; useful samples usually require a longer training run.
