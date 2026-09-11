@@ -1,11 +1,20 @@
-I tell you, for Warwick, may no made the corrown.
+Training run: 10,000 iterations
+Final train loss: 1.3733
+Final validation loss: 1.5974
+
+Prompt:
+I tell you,
+
+Generated text:
+I tell you, vanity red aboard,
+Till first thy son heart of be return boars.
 
 ROMEO:
-Shall I stay'd the lackle own to the crown,
-Deading so chrital their with bloody and what
-The heaven, have as many do in their and o'erbacks:
-'We rise place conscient the house of Gaunt.
+Ay, with he was me that not down where we are
+to the soldiers.
 
-KING RICHARD III:
-O ignorance, for them and the which is me,
-Perc
+SICINIUS:
+Ale, thou the man; comes and not needs,
+Consent to have and the kinsman's garden me
+And our all bad them cousin, who is the nature
+For the people, when m
